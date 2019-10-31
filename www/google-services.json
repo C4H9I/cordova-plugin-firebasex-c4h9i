@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "809967406629",
+    "firebase_url": "https://c4h9i-61364.firebaseio.com",
+    "project_id": "c4h9i-61364",
+    "storage_bucket": "c4h9i-61364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809967406629:android:e9d441a743ba30a00a39cc",
+        "android_client_info": {
+          "package_name": "c4h9i.firebase.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809967406629-ouop7e90o8rs9ocfk1m3ieus1pdltmda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-TsCMN3o1rgDUO3dE6u2SnFl964v1EYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809967406629-ouop7e90o8rs9ocfk1m3ieus1pdltmda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809967406629:android:a958f472dbef0f050a39cc",
+        "android_client_info": {
+          "package_name": "com.phonegap.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809967406629-ouop7e90o8rs9ocfk1m3ieus1pdltmda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-TsCMN3o1rgDUO3dE6u2SnFl964v1EYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809967406629-ouop7e90o8rs9ocfk1m3ieus1pdltmda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809967406629:android:db934a529571701b0a39cc",
+        "android_client_info": {
+          "package_name": "ru.radm.ionicpushup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809967406629-ouop7e90o8rs9ocfk1m3ieus1pdltmda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-TsCMN3o1rgDUO3dE6u2SnFl964v1EYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809967406629-ouop7e90o8rs9ocfk1m3ieus1pdltmda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
