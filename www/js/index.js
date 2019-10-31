@@ -82,7 +82,7 @@ var initAndroid = function(){
     // Define custom  channel - all keys are except 'id' are optional.
     var customChannel  = {
         // channel ID - must be unique per app package
-        id: "my_channel_id",
+        id: "809967406629",
 
         // Channel name. Default: empty string
         name: "My channel name",
