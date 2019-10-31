@@ -1,9 +1,9 @@
 {
-  "name": "uk.co.workingedge.firebase.test",
-  "displayName": "FirebaseTest",
+  "name": "c4h9i.firebase.test",
+  "displayName": "C4FirebaseTest",
   "version": "6.0.0",
   "description": "Test project for cordova-plugin-firebasex",
-  "author": "Dave Alden",
+  "author": "C4H9I",
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-android": "^8.0.0",
